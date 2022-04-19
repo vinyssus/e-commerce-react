@@ -1,0 +1,10 @@
+.navbar-brand{
+font-family: 'Ms Madi';
+font-family: 'Nunito', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    cursor: pointer;
+}
+

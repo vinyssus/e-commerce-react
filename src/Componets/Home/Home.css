@@ -1,0 +1,17 @@
+.card{
+     margin: 30px;
+    margin-bottom: 4%;
+}
+
+.home{
+
+ padding: 2rem 4rem;
+ display: flex;
+}
+
+.image{
+    padding: 10rem;
+   
+    background-image: url("F:\React-project\e-commmerce\public\assets\div1.png");
+    
+}

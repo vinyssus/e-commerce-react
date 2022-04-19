@@ -1,0 +1,22 @@
+.form{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 30%;
+    margin-left: 25%;
+    border-radius: 1pc;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30rem;
+    border-radius: 30px;
+    box-shadow: -4px 3px 18px -9px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+
+
+.text-center{
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
